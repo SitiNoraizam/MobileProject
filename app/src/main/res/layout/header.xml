@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="3dp"
-        android:text="ChocoJoyce"
+        android:text="Mobile Store"
         android:textSize="24sp" />
     <!-- android:textColor="@color/not_so_white_for_txt" -->
 
